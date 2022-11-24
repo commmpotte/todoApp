@@ -1,4 +1,4 @@
-# React project for Udemy
+# React project
 
 ## Available Scripts
 
